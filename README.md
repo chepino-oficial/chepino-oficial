@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📝 I regularly write articles on [https://chepinocb.blogspot.com/](https://chepinocb.blogspot.com/)
+- 📝 I regularly write articles on [https://chepino-oficial.github.io/](https://chepino-oficial.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
