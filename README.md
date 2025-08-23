@@ -13,6 +13,7 @@ Sorry if my english is bad, lol
 ![Tkinter](https://img.shields.io/badge/Tkinter-%233776AB?style=for-the-badge)
 ### IDEs and programs
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&labelColor=black)
 
 <!--
 **chepino-oficial/chepino-oficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
