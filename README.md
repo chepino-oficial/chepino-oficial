@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Chepino</h1>
+# Hi there
+![GitHub followers](https://img.shields.io/github/followers/chepino-oficial?style=for-the-badge&logo=github)
 
-- 🌱 I’m currently learning **Python**
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKlKIcTSLfrgCK-yPEpS0xw?style=for-the-badge)
 
-- 📝 I regularly write articles on [https://chepino-oficial.github.io/](https://chepino-oficial.github.io/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@ChepinoCB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chepinocb" height="30" width="40" /></a>
-</p>
+I am a mexican student and a programming enthusiast.\
+Sorry if my english is bad, lol
+## My stuff
+### Languages (but not the OOP)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&labelColor=black)
+### Libraries
+![Tkinter](https://img.shields.io/badge/Tkinter-%233776AB?style=for-the-badge)
+### IDEs and programs
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge)
 
 <!--
 **chepino-oficial/chepino-oficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
