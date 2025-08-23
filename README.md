@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chepino</h1>
-<h3 align="center">I am an aspiring programmer from Mexico</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://chepino-oficial.github.io/](https://chepino-oficial.github.io/)
 
