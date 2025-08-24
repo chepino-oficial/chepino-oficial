@@ -3,7 +3,7 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKlKIcTSLfrgCK-yPEpS0xw?style=for-the-badge)
 
-I am a mexican student and a programming enthusiast.\
+I am a mexican student and a programming enthusiast.
 ## My stuff
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black)
