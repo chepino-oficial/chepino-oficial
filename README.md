@@ -4,9 +4,8 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKlKIcTSLfrgCK-yPEpS0xw?style=for-the-badge)
 
 I am a mexican student and a programming enthusiast.\
-Sorry if my english is bad, lol
 ## My stuff
-### Languages (but not the OOP)
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&labelColor=black)
 ### Libraries
